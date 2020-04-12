@@ -1,5 +1,8 @@
 ---
-
+layout: post
+title: "Neon Game"
+date: 2020-04-12 21:10:00 +0100
+categories: post
 ---
 Witam w pierwszym - premierowym jakoś nie pasuje w tym kontekście - wpisie ! Chciałem przy tej okazji zaprezentować napisaną przez siebie grę.
 Przy jej tworzeniu posiłkowałem sie głównie publikacją "Making Games with Python & Pygame". Jest ona dostępna za darmo w internecie i zachęcam do 

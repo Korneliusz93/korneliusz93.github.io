@@ -19,6 +19,7 @@ Wymagania: system operacyjny macOS (najlepiej w wersji Mojave i wyższe), python
 
 Cała instrukcja instalacji środowiska potrzebnego do odpalenia gry znajduje się pod tym linkiem:
 https://www.pygame.org/wiki/MacCompile
+
 Na koniec podaję link do pobrania aplikacji:
 https://www.dropbox.com/s/e4i453dviuqsbff/neonGame.app.zip?dl=0
  

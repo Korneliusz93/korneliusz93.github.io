@@ -6,7 +6,7 @@ published: true
 ---
 
 <h1>Bill Picture</h1>
-Dzisiejszy wpis poświęcony jest zjawisku określanemu jako Bill picture. Jak podają źródła: 
+Dzisiejszy wpis poświęcony jest zjawisku określanemu jako Bill Picture. Jak podają źródła: 
 <blockquote cite="https://mathworld.wolfram.com/BillPicture.html">Jest to sekwencja zagnieżdżonych w sobie wielokątów foremnych, które są obrócone 
 tak, że zaczynają się o jeden wierzchołek dalej.</blockquote>
  
@@ -21,7 +21,7 @@ Tak natomiast wygląda wariant 13 obrazka Billa.
 W wygenerowaniu powyższych pomocny był moduł pygame i łatwość z jaką można manipulować przy jego pomocy obiektami na płaszczyźnie dwuwymiarowej, tutaj 
 na przykład wielokątami foremnymi.
 
-Prace Maxa Billa - do zapozanania się z którymi zachęcam - są jednym z przejawów piękna matematyki. Nic dziwnego że prace tego przedstawiciela Bauhausu,
+Prace Maxa Billa - do zapozanania się z którymi zachęcam - są jednym z przejawów piękna matematyki. Nic dziwnego że dzieła tego przedstawiciela Bauhausu,
 wydające się na pierwszy rzut oka abstrakcyjne, przeszły już do kanonu sztuki nowoczesnej.
 
 Źródła:

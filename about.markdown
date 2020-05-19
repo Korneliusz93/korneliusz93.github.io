@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Witaj na moim blogu! Strona w budowie!
+![motto](/assets/opsec.jpg)
 

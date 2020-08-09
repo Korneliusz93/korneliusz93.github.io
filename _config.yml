@@ -22,8 +22,7 @@ title: technoPrymat
 email: rzeczyckikornel@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog porusza tematy technologiczne. Jako myśl przewodnią pisania
-  przyjmuje popularyzację szerokopojętej rewolucji technologicznej w
-  społeczeństwie 2.0.
+  przyjmuje popularyzację szeroko pojętej technologii, w sferze społeczeństwa 2.0.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://korneliusz93.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

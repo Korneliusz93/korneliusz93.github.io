@@ -25,7 +25,7 @@ Najmocniejszą stroną KDE neon wydaje się być dostępność aktualizowanego n
 Co najważniejsze są one całkowicie <b>darmowe</b>!  
 
 Podsumowując KDE neon dostarcza stabilny system z naprawde interesującym środowiskiem pulpitu, wyposażony w zestaw użytecznych narzędzi, za darmo :).
-![pic](/assets/screenfetch.jpg)
+![pic2](/assets/screenfetch.jpg)
 
 Źródła:
 

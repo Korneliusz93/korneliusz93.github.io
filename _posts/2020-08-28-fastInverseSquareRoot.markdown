@@ -4,6 +4,9 @@ title: "InvSqrt"
 categories: post
 published: true
 ---
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
 <h1>Szybka odwrotność pierwiastka kwadratowego</h1>
  
@@ -40,13 +43,15 @@ W drugiej linijce ustawiony już na pobraną, podzieloną, liczbę wskaźnik typ
 
 <h2>WTF?</h2>
 
-Jak głosi znane powszechnie porzekadło - diabeł tkwi w szczegółach. W czwartej linijce przedstawionego wcześniej kodu widzimy ukrytą magie tego algorytmu.
+Jak głosi znane powszechnie porzekadło - diabeł tkwi w szczegółach. W czwartej linijce przedstawionego wcześniej kodu widzimy magię tego algorytmu.
 Szybkość algorytmu bierze się z przesunięcia skonwertowanej wcześniej na liczbę całkowitą liczby o jeden bit w prawo, a następnie odjęcia jej od nazywanej magiczną liczbą stałej, tutaj pojawiającej się w zapisie heksadecymalnym.
-W powszechnych źródłach nie można doszukać się szczegółowych informacji na temat tego, jak została ona wyznaczona.
+W powszechnych źródłach próżno doszukiwać się szczegółowych informacji na temat tego, jak została ona wyznaczona.
 Następnie zachodzi spowrotem konwersja, na drodze jawnego rzutowania, do postaci liczby zmiennoprzecinkowej - linia 5. Na koniec wynik otrzymany na drodze wcześniejszych obliczeń
 poddany zostaje pierwszej iteracji metody Newtona dla uzyskania zadowalającego przybliżenia. Te z kolei wydaje się być więcej niż zadowalające.
 Dla potwierdzenia wyniki które otrzymałem, licząc $$ 1/\sqrt{x}  $$ dla x = 0,15625:
+
 InvSqrt = 2,52549
+
 Kalkulator naukowy CASIO = 2,52982
 
 Źródła:

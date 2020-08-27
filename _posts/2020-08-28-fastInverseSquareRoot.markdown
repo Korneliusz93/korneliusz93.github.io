@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sqrtInvert"
+title: "InvSqrt"
 categories: post
 published: true
 ---
@@ -21,7 +21,9 @@ Poniżej zamieszczam tytułowy algortm zapisany w kodzie C++
 Jest on oryginalny względem kodu źródłowego gry - wraz z komentarzami włącznie.
 
 Rewolucyjny pod względem dokładności przybliżenia oraz szybkości algorytm liczy takie równanie:
+
 $$ 1/\sqrt{x} $$
+
 W pierwszych dwóch linijkach kodu dostrzegamy inicjalizacje zmiennych typu liczby zmiennoprzecinkowej. Jako daną wejściową otrzymujemy
 liczbę zmiennoprzecinkową - zmienna <b>number</b> - którą po podzieleniu przez 2 zachowuje się do ponownego wykorzystania.
 
@@ -29,7 +31,9 @@ liczbę zmiennoprzecinkową - zmienna <b>number</b> - którą po podzieleniu prz
 
 Trzecia linia w kodzie prezentuje jawne rzutowanie typów w iście oldschoolowym stylu czerpiącym jeszcze z języka C.
 W istocie rzeczy mamy tutaj dwie konwersje zawarte w jednej linicje. Ja - dla uproszczenia  - rozbiłem to sobie w ten sposób:
+
 ![pic2](/assets/cast.jpg)
+
 W pierwszej linii tworzę wskaźnik typu long iwsk. Zachodzi pierwsza konwersja na wskaźnik typu long, z referencji zawierającej adres przechowanej wcześniej liczby typu float.
 Jest to dopuszczalne, ponieważ nieograniczone jawne rzutowanie typów pozwala konwertować dowolny wskaźnik na dowolny inny typ wskaźnika, niezależnie od typów, na które wskazują.
 W drugiej linijce ustawiony już na pobraną, podzieloną, liczbę wskaźnik typu long int konwertuję na typ long. W ten oto sposób udało mi się zmienić typ zmiennej, z liczby zmiennoprzecinkowej na całkowitą, w całkiem przyzwoitym czasie. To wszystko dzięki wskaźnikom.

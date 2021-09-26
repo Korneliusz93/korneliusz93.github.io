@@ -1,6 +1,6 @@
 ---
 layout:post
-title:Deep Dream Generator
+title:"Deep Dream Generator"
 categories:post
 published:true
 ---

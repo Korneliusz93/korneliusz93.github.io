@@ -16,14 +16,14 @@ W efekcie można cieszyć oko psychodelicznymi widokami. Efekty które udało mi
 
 <div class="datatable-begin"></div>
 
-| Przed DeepDream                | Po DeepDream                      | 
-|--------------------------------|-----------------------------------|
-| ![image](/assets/SAM_1943.JPG) | ![image](/assets/SAM_1943_DD.jpg) |
-| ![image](/assets/SAM_1873.JPG) | ![image](/assets/SAM_1873_DD.jpg) |
-| ![image](/assets/SAM_1871.JPG) | ![image](/assets/SAM_1871_DD.jpg) |
-| ![image](/assets/SAM_2107.JPG) | ![image](/assets/SAM_2107_DD.jpg) |
-| ![image](/assets/SAM_2116.JPG) | ![image](/assets/SAM_2116_DD.jpg) |
-| ![image](/assets/SAM_2117.JPG) | ![image](/assets/SAM_2117_DD.jpg) |
+Przed DeepDream                | Po DeepDream 
+------------------------------ | ---------------------------------
+![image](/assets/SAM_1943.JPG) | ![image](/assets/SAM_1943_DD.jpg)
+![image](/assets/SAM_1873.JPG) | ![image](/assets/SAM_1873_DD.jpg)
+![image](/assets/SAM_1871.JPG) | ![image](/assets/SAM_1871_DD.jpg)
+![image](/assets/SAM_2107.JPG) | ![image](/assets/SAM_2107_DD.jpg)
+![image](/assets/SAM_2116.JPG) | ![image](/assets/SAM_2116_DD.jpg)
+![image](/assets/SAM_2117.JPG) | ![image](/assets/SAM_2117_DD.jpg)
 
 <div class="datatable-end"></div>
 

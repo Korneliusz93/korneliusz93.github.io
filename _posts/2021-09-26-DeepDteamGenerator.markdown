@@ -1,8 +1,8 @@
 ---
-layout:post
-title:"Deep Dream Generator"
-categories:post
-published:true
+layout: post
+title: "Deep Dream Generator"
+categories: post
+published: true
 ---
 
 Siemanko!
